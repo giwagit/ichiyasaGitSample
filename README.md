@@ -6,6 +6,7 @@ bbbbb
 ccccc
 ddddd
 
+ローカル　master
 zzzzz
 ローカル update-venue
 ローカル update-venue 2
