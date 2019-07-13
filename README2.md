@@ -7,5 +7,6 @@ ccccc
 ddddd
 
 リモート README2
+ローカル　update
 
 
