@@ -7,6 +7,7 @@ ccccc
 ddddd
 
 zzzzz
+ローカル update-venue
 
 
 
